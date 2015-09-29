@@ -2,7 +2,7 @@ I use Vundle to management my vim plugins. You can refer to this link for more i
 
 #Install with:
 
-    git clone https://github.com/andyque/dotvim.git ~/.vim
+    git clone https://github.com/williezou/dotfiles.git ~/.vim
 
     cd ~/.vim
 
